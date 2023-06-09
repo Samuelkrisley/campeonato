@@ -1,0 +1,17 @@
+
+img{
+    height:100 ;
+    width:500 ;
+}
+body{
+
+
+}
+main{
+    
+    margin-inline:550px ;
+    display: flex ; 
+    flex-direction: column;
+    
+
+}
